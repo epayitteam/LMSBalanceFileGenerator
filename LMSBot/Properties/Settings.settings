@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LMSBot.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BalanceFileEmailBody" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;p&gt;Good morning {0}&lt;/p&gt;&lt;p&gt;Attached is your balance file for the {1} department.&lt;/p&gt;&lt;p&gt;Please confirm you have recieved this file by clicking on he below link&lt;/p&gt;&lt;p&gt;&lt;h2&gt;&lt;a href="{2}"&gt;Click here&lt;/a&gt;&lt;/h2&gt;&lt;/p&gt;</Value>
+    </Setting>
+    <Setting Name="BalanceFileEmailSubject" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Balance file for the {0} department.</Value>
+    </Setting>
+    <Setting Name="SummaryFileEmailSubject" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Balance file for {0}</Value>
+    </Setting>
+    <Setting Name="SummaryFileEmailBody" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">See balance file attached.</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
