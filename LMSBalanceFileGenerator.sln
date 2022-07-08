@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMSBalanceFileGenerator", "LMSBalanceFileGenerator\LMSBalanceFileGenerator.csproj", "{1EA64232-AE35-40EE-ACFD-4FB57679F21E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMSBot", "LMSBot\LMSBot.csproj", "{FD40CFE8-1D3E-4399-AE84-5B0398790BEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EA64232-AE35-40EE-ACFD-4FB57679F21E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA64232-AE35-40EE-ACFD-4FB57679F21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA64232-AE35-40EE-ACFD-4FB57679F21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA64232-AE35-40EE-ACFD-4FB57679F21E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD40CFE8-1D3E-4399-AE84-5B0398790BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD40CFE8-1D3E-4399-AE84-5B0398790BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD40CFE8-1D3E-4399-AE84-5B0398790BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD40CFE8-1D3E-4399-AE84-5B0398790BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EE81E3F-C33B-4C8E-97AB-44926C6CEF67}
+	EndGlobalSection
+EndGlobal
