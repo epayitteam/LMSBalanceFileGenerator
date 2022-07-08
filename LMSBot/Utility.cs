@@ -473,8 +473,6 @@ namespace LMSBot
             {
                 msg = null;
                 smtpc = null;
-                msg.Dispose();
-                smtpc.Dispose();
             }
 
             return false;
